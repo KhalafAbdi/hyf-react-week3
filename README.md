@@ -33,7 +33,7 @@ This repository contains the code examples used during React Week 3 lessons. Eac
 
 ## 🚀 Live Demo
 
-You can view the live examples at: [React Week 3 Examples](https://your-deployment-url.vercel.app)
+You can view the live examples at: [React Week 3 Examples](https://hyf-react-week3.vercel.app/)
 
 ## 💻 Running Locally
 
