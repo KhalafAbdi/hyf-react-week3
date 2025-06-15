@@ -40,8 +40,7 @@ You can view the live examples at: [React Week 3 Examples](https://your-deployme
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd lesson-3
+git clone git@github.com:KhalafAbdi/hyf-react-week3.git
 ```
 
 2. Install dependencies:
