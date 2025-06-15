@@ -2,6 +2,7 @@ import { ButtonDemo } from './components/ButtonDemo';
 import { FormDemo } from './components/FormDemo';
 import { TodoDemo } from './components/TodoDemo';
 import { HooksDemo } from './components/HooksDemo';
+import Link from 'next/link';
 
 export default function Home() {
     return (
@@ -13,9 +14,9 @@ export default function Home() {
             <HooksDemo />
             <div className="demo-link-card">
                 <h2>Connecting to APIs</h2>
-                <a href="/fetch" className="demo-link">
+                <Link href="/fetch" className="demo-link">
                     Data Fetching Example →
-                </a>
+                </Link>
             </div>
         </div>
     );

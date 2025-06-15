@@ -1,12 +1,13 @@
+import Link from 'next/link';
 import { FetchDemo } from '../components/FetchDemo';
 
 export default function FetchPage() {
     return (
         <div className="container">
             <div className="page-header">
-                <a href="/" className="back-link">
+                <Link href="/" className="back-link">
                     ← Back to examples
-                </a>
+                </Link>
                 <h1>Data Fetching in React</h1>
             </div>
             <div className="page-content">
